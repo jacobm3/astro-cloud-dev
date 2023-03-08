@@ -30,8 +30,6 @@
 .init.json
 .init.out
 .init.txt
-.terraform.lock.hcl
-.terraform.lock.hcl
 .terraformrc
 __pycache__
 audit
